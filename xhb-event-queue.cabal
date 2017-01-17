@@ -1,0 +1,21 @@
+Name:                xhb-event-queue
+Version:             0.1
+license:             MIT
+license-file:        LICENSE
+author:              Nick Spinale
+maintainer:          spinalen@carleton.edu
+build-type:          Simple
+extra-source-files:  README.md
+cabal-version:       >=1.10
+
+
+library
+
+  exposed-modules:   Graphics.XHB.EventQueue
+
+  build-depends:     base
+                   , transformers
+                   , mtl
+                   , containers
+                   , xhb
+                   , xhb-monad
