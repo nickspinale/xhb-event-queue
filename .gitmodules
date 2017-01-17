@@ -1,0 +1,4 @@
+[submodule "doc"]
+	path = doc
+	url = https://github.com/nickspinale/xhb-event-queue.git
+	branch = gh-pages
