@@ -7,7 +7,7 @@
 
 
 module Graphics.XHB.EventQueue
-    (  EventQueueT(..)
+    ( EventQueueT(..)
     , runEventQueueT
     , EventQueueCtx(..)
     , getEventQueue
