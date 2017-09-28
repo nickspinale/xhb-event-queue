@@ -37,4 +37,4 @@ onMotionNotify ev = do
 
 [This article](http://nickspinale.com/articles/xhb-monad) describes this package and some of its friends in detail.
 
-Haddock can be found [here](https://nickspinale.github.io/xhb-event-queue).
+Haddock can be found [here](https://nspin.github.io/xhb-event-queue).
